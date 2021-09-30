@@ -1,0 +1,36 @@
+#first {
+  color: black;
+  font-family: Georgia;
+  font-size: 40px;
+  text-align: center;
+}
+.happy {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.hello{
+  text-align: center;
+}
+.hello{
+  text-align: center;
+}
+#second{
+  font-weight: bold;
+  text-align: center;
+}
+li {
+  color: purple;
+  text-align: center;
+  list-style-position: inside;
+}
+#third {
+  padding: 3px;
+  border: 1px solid purple;
+  margin: 20px;
+  text-align: center;
+}
+body{
+background-color: #f1b2ff
+}
